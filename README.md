@@ -8,7 +8,7 @@ on either parametric knowledge or context exclusively, as instructed.
 3. __Hallucinations__: If they have insufficient knowledge or context information to answer a question,
 LLMs should refuse to answer.
 
-Further details can be found in our [paper](LINK PLACEHOLDER).
+Further details can be found in our paper: https://arxiv.org/abs/2403.14578
 
 
 ## Table of Contents
